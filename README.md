@@ -1,2 +1,1 @@
-# Tugas-Perbaikan
-Tugas perbaikan
+# Perbaikan-UTS-algoritma-dan-pemrograman
